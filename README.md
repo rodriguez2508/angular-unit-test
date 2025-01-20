@@ -44,6 +44,14 @@ To execute unit tests with the [Karma](https://karma-runner.github.io) test runn
 ng test
 ```
 
+## Running unit tests coverage
+
+To execute unit tests and generate a coverage report, use the following command:
+
+```bash
+ng test --code-coverage
+```
+
 ## Running end-to-end tests
 
 For end-to-end (e2e) testing, run:
